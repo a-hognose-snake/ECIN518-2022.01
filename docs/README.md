@@ -1,7 +1,7 @@
 # Informe Técnico - Semana 1
 ## Curso: Proyecto Integrador Plataformas TI
 
-**Alumnos:*
+*Alumnos:*
 * Joaquín Aravena O’Brien
 * Josefina Figueroa Ubilla
 * Cristian Galleguillos Araya
