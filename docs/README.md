@@ -82,7 +82,7 @@ Para probar el funcionamiento de la cámara, escribimos un script en Thonny Pyth
 
 ![image](/images/foto1.jpeg)
 
-Computador y modulo de cámara funcional, en conjunto non mayor entendimiento acerca del funcionamiento de la Raspberry Pi y fotos del procedimiento.
+Computador y modulo de cámara funcional, en conjunto con mayor entendimiento acerca del funcionamiento de la Raspberry Pi y fotos del procedimiento.
 
 ## 4. Conclusiones
 
