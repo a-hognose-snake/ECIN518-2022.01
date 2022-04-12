@@ -10,5 +10,5 @@
 | 03/04 | 01 | Explorar código y funcionalidades a fondo | Shpm21  | 2 horas    | 2 horas |
 | 03/04 | 01 | Sacar Fotos | Todos | 0.5 horas    | 2 horas |
 | 04/04 | 01 | Empezar Entregable #1 | a-hognose-snake  | 1 hora    | 2.5 horas |
-| 05/04 | 01 | Terminar Entregable #1 | PERSONA  | 00 horas    | 00 horas |
-| 05/04 | 01 | Actualizar bitácora | PERSONA  | 00 horas    | 00 horas |
+| 05/04 | 01 | Terminar Entregable #1 | JoaquinAO  | 2 horas    | 3 horas |
+| 05/04 | 01 | Actualizar bitácora | Shpm21  | 0.5 horas    | 0.5 horas |
