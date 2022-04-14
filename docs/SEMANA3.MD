@@ -52,19 +52,19 @@ IDE:
 ### 2.2 Implementación
 Se revisó levemente que era el driver puente H L298N 2A en conjunto con el profesor, explicando su funcionamiento y la finalidad de este. En este caso, el driver nos servirá para poder mover los motores. Para entender las partes del driver, se siguió una guía sobre como conectar un motor a Arduino con un driver.
 
-![image](images/semana_3/driver.jpg)
+![image](/images/semana_3/driver.jpg)
 
 Se realizaron las conexiones correspondientes entre el arduino y el driver siguiendo el esquema que está a continuación:
 
-![image](images/semana_3/conexion_1.jpg)
+![image](/images/semana_3/conexion_1.jpg)
 
 Y el resultado obtenido fue el siguiente:
 
-![image](images/semana_3/conexion_2.jpg)
+![image](/images/semana_3/conexion_2.jpg)
 
 Por último, se conectaron los motores al driver, los cables fueron soldados a los motores.
 
-![image](images/semana_3/conexion_3.jpg)
+![image](/images/semana_3/conexion_3.jpg)
 
 Una vez que ya se tenía todo conectado correctamente, se tuvo que realizar el código en el IDE de Arduino, para mandarle instrucciones al Arduino. Primero definimos las variables correspondientes a las teclas que se utilizaran para hacer avanzar/retrocedes/parar a los motores, también declaramos las variables correspondientes a los pines del driver:
 ``` ino
