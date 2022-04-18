@@ -21,19 +21,26 @@ El proyecto busca que se puedan reconocer los objetos detectados por la cámara 
 
 #### Semana 1
 - Se entendió el funcionamiento básico de la Raspberry Pi y se hizo funcionar en conjunto con el modulo de cámara.
-
-    ![image](images/code1.jpeg)
-
     ![image1](images/set.png)
 
 #### Semana 2
-- TBD
+- Se entendió el funcionamiento de OpenCV en Python en conjunto con la Raspberry Pi.
+    ![image](images/code1.jpeg)
+
+#### Semana 3
+- Se entendió como interactúa Arduino con los motores a través del driver L298N 2A.
+    ![image](/images/semana_3/conexion_3.jpg)
+
+
     
  
 
 ### Documentos
 
 * [Reporte Técnico - Semana 1](docs/README.md)
+* [Reporte Técnico - Semana 2](docs/SEMANA2.MD)
+* [Reporte Técnico - Semana 3](docs/SEMANA3.MD)
+
 
 
 
