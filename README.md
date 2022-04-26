@@ -31,15 +31,19 @@ El proyecto busca que se puedan reconocer los objetos detectados por la cámara 
 - Se entendió como interactúa Arduino con los motores a través del driver L298N 2A.
     ![image](/images/semana_3/conexion_3.jpg)
 
+#### Semana 4
+- Se entendió como dar instruciones a los motores de las ruedas a través de un potenciometro y a utilizar el  protocolo i2c para la comunicación entre las implementos necesarios para hacer los movimientos.
 
-    
- 
+    ![Alt Text](/images/semana4.gif)
+
+
 
 ### Documentos
 
 * [Reporte Técnico - Semana 1](docs/README.md)
 * [Reporte Técnico - Semana 2](docs/SEMANA2.MD)
 * [Reporte Técnico - Semana 3](docs/SEMANA3.MD)
+* [Reporte Técnico - Semana 4](docs/SEMANA4.MD)
 
 
 

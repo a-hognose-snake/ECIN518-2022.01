@@ -138,10 +138,5 @@ void loop()
 
 El resultado obtenido fue el que se esperaba, ya que, logramos que las ruedas avanzaran, retrocedas o se detengan en base a lo que se presione.
 
-
-## 4. Conclusiones
-
-
-
 # Referecias
 https://electronilab.co/tutoriales/tutorial-de-uso-driver-dual-l298n-para-motores-dc-y-paso-a-paso-con-arduino/
