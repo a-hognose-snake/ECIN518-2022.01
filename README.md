@@ -1,6 +1,6 @@
 ![UCN](images/60x60-ucn-negro.png)
 
-# Proyecto: Módulo de Cámara Raspberry Pi
+# Proyecto: Mini Robot con Capacidad de Detección y Movimiento
 ## Curso: Proyecto Integrador Plataformas TI
 
 El proyecto busca que se puedan reconocer los objetos detectados por la cámara conectada al Raspberry Pi. 
