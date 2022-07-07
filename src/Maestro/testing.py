@@ -38,9 +38,9 @@ while (capture.isOpened()):
         if area > 500:
             epsilon = .02* cv.arcLength(contour, True)
             approx = cv.approxPolyDP(contour, epsilon, True)
-            cv.drawContours(frame, [approx], 0, (0, 0, 0), 5)
-            x = approx.ravel()[0]
-            y = approx.ravel()[1] - 5
+            #cv.drawContours(frame, [approx], 0, (0, 0, 0), 5)
+            #x = approx.ravel()[0]
+            #y = approx.ravel()[1] - 5
             if len(approx) > 0 and len(approx) <= 6:
                 #cv.putText(frame, "Avanzar", (x, y), cv.FONT_HERSHEY_COMPLEX, .5, (0, 0, 0))
                 bus.write_byte(ADDR, AVANZAR)

@@ -5,7 +5,7 @@
 
 El proyecto busca que se puedan reconocer los objetos detectados por la cámara conectada al Raspberry Pi. 
 
->Lo ideal seria crear un robot con la capacidad de moverse y esquivar objetos en su camino.
+![image](/images/final/MrRobot.jpeg)
 
 ### Integrantes
 
@@ -35,6 +35,10 @@ El proyecto busca que se puedan reconocer los objetos detectados por la cámara 
 - Se entendió como dar instruciones a los motores de las ruedas a través de un potenciometro y a utilizar el  protocolo i2c para la comunicación entre las implementos necesarios para hacer los movimientos.
 
     ![Alt Text](/images/semana4.gif)
+### Entrega Final
+- El resultado obtenido fue el que se esperaba, ya que, logramos que las ruedas del robot avanzaran, retrocedas o se detuvieran en base a lo detectado.
+
+     ![Alt Text](/images/final/MrRobotFinal.gif)
 
 
 
@@ -44,6 +48,8 @@ El proyecto busca que se puedan reconocer los objetos detectados por la cámara 
 * [Reporte Técnico - Semana 2](docs/SEMANA2.MD)
 * [Reporte Técnico - Semana 3](docs/SEMANA3.MD)
 * [Reporte Técnico - Semana 4](docs/SEMANA4.MD)
+* [Reporte Técnico - Final](docs/FINAL.MD)
+
 
 
 
